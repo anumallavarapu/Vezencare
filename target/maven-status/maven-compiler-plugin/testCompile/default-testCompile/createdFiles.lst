@@ -1,0 +1,10 @@
+com\vezencare\testCases\TC_LoginDDT_002.class
+com\vezencare\testCases\Userbaseclass.class
+Sampletestcase.class
+com\vezencare\pageObjects\Userloginpage.class
+com\vezencare\testCases\TC_UserLoginTest_001.class
+com\vezencare\testCases\TC_UserdashboardTest_002.class
+com\vezencare\utilities\ReadConfig.class
+com\vezencare\pageObjects\Dashboardpage.class
+com\vezencare\pageObjects\Userdashboardpage.class
+com\vezencare\utilities\XLUtilities.class

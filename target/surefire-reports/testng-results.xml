@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="88459" started-at="2021-09-17T17:56:35Z" finished-at="2021-09-17T17:58:03Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="88459" started-at="2021-09-17T17:56:35Z" finished-at="2021-09-17T17:58:03Z">
+      <class name="com.vezencare.testCases.TC_UserLoginTest_001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.vezencare.testCases.TC_UserLoginTest_001@548b7f67]" name="setup" is-config="true" duration-ms="3688" started-at="2021-09-17T17:56:35Z" finished-at="2021-09-17T17:56:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="userLoginTest()[pri:0, instance:com.vezencare.testCases.TC_UserLoginTest_001@548b7f67]" name="userLoginTest" duration-ms="1456" started-at="2021-09-17T17:56:39Z" finished-at="2021-09-17T17:56:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.vezencare.testCases.TC_UserLoginTest_001@548b7f67]" name="tearDown" is-config="true" duration-ms="68" started-at="2021-09-17T17:56:40Z" finished-at="2021-09-17T17:56:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.vezencare.testCases.TC_UserLoginTest_001 -->
+      <class name="com.vezencare.testCases.TC_LoginDDT_002">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.vezencare.testCases.TC_LoginDDT_002@7ac7a4e4]" name="setup" is-config="true" duration-ms="1561" started-at="2021-09-17T17:56:40Z" finished-at="2021-09-17T17:56:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.vezencare.testCases.TC_LoginDDT_002@7ac7a4e4]" name="loginDDT" duration-ms="3394" started-at="2021-09-17T17:56:42Z" data-provider="LoginData" finished-at="2021-09-17T17:56:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9346078959]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.vezencare.testCases.TC_LoginDDT_002@7ac7a4e4]" name="loginDDT" duration-ms="13450" started-at="2021-09-17T17:56:46Z" data-provider="LoginData" finished-at="2021-09-17T17:56:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9243581353]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[456813]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.vezencare.testCases.TC_LoginDDT_002@7ac7a4e4]" name="loginDDT" duration-ms="13491" started-at="2021-09-17T17:56:59Z" data-provider="LoginData" finished-at="2021-09-17T17:57:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9346078959]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.vezencare.testCases.TC_LoginDDT_002@7ac7a4e4]" name="loginDDT" duration-ms="3450" started-at="2021-09-17T17:57:13Z" data-provider="LoginData" finished-at="2021-09-17T17:57:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9346078959]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.vezencare.testCases.TC_LoginDDT_002@7ac7a4e4]" name="loginDDT" duration-ms="13424" started-at="2021-09-17T17:57:16Z" data-provider="LoginData" finished-at="2021-09-17T17:57:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8686962272]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.vezencare.testCases.TC_LoginDDT_002@7ac7a4e4]" name="loginDDT" duration-ms="13497" started-at="2021-09-17T17:57:29Z" data-provider="LoginData" finished-at="2021-09-17T17:57:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9705090668]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[anu@1412]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.vezencare.testCases.TC_LoginDDT_002@7ac7a4e4]" name="tearDown" is-config="true" duration-ms="81" started-at="2021-09-17T17:57:43Z" finished-at="2021-09-17T17:57:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.vezencare.testCases.TC_LoginDDT_002 -->
+      <class name="com.vezencare.testCases.TC_UserdashboardTest_002">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.vezencare.testCases.TC_UserdashboardTest_002@6d78f375]" name="setup" is-config="true" duration-ms="1556" started-at="2021-09-17T17:57:43Z" finished-at="2021-09-17T17:57:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="userDashboardTest()[pri:0, instance:com.vezencare.testCases.TC_UserdashboardTest_002@6d78f375]" name="userDashboardTest" duration-ms="18587" started-at="2021-09-17T17:57:45Z" finished-at="2021-09-17T17:58:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userDashboardTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.vezencare.testCases.TC_UserdashboardTest_002@6d78f375]" name="tearDown" is-config="true" duration-ms="95" started-at="2021-09-17T17:58:03Z" finished-at="2021-09-17T17:58:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.vezencare.testCases.TC_UserdashboardTest_002 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
